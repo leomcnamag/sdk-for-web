@@ -65,4 +65,4 @@
 
 ---
 
-> **Personal fork notes:** I'm using this fork primarily to experiment with Realtime subscription patterns and custom query helpers. Upstream changes are periodically merged from `appwrite/sdk-for-web`.
+> **Personal fork notes:** I'm using this fork primarily to experiment with the Realtime subscription lifecycle introduced in 25.0.0 and to test impersonation flows locally. Upstream changes are periodically merged from `appwrite/sdk-for-web`.
