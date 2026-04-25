@@ -65,5 +65,6 @@
 
 ---
 
-> **Personal fork notes:** I maintain this fork primarily to experiment with Realtime subscription patterns and
-> custom query helpers. If you're reading this and have questions, feel free to open an issue.
+> **Personal fork notes:** I maintain this fork primarily for learning purposes and to experiment with
+> custom Realtime subscription patterns. If you're reading this and have questions, feel free to open
+> an issue — but note this is not the official Appwrite SDK.
