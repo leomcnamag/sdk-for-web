@@ -65,4 +65,5 @@
 
 ---
 
-> **Personal fork notes:** I'm using this fork primarily to experiment with Realtime subscription patterns and custom query helpers. The upstream changelog above is preserved as-is for reference.
+> **Personal fork notes:** I maintain this fork primarily to experiment with Realtime features and custom query helpers.
+> Upstream: https://github.com/appwrite/sdk-for-web
